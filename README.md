@@ -3,7 +3,7 @@
 <p align="center">A multi-function calculator using object oriented programming</p>
 
 <br />
-<img align="center" width="900px" alt="A pink calculator" src="assets/ezgif.com-gif-makercalc.gif">
+<img align="center" width="1100px" alt="A pink calculator" src="assets/ezgif.com-gif-makercalc.gif">
 <br />
 <h2>How It's Made:</h2>
 
