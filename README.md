@@ -1,7 +1,7 @@
 <h1 align="center">Simple OOP Calculator</h1>
 <p align="center">A multi-function calculator using object oriented programming</p>
 <br />
-<img width="100%" alt="A pink calculator" src="">
+<img width="100%" alt="A pink calculator" src="assets/ezgif.com-gif-makercalc.gif">
 <br />
 <h2>How It's Made:</h2>
 
